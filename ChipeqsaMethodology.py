@@ -39,9 +39,9 @@ money = int(input('''\033[0;37m
 [1] Bileti damawerie
 [2] romeli sloti vitamasho ?
 [3] JetX/Aviator
-[4] Random Slogani Chipeqsasgan
+[4] Chipeqsa Motivation
     \n
-[Pasuxi : (1-3) ]> '''))
+[Pasuxi : (1-4) ]> '''))
 
 if money == 1:
     text = "\033[0;91m[+] Karoche shedixar ormocda merve yazaxetis ligashi da irchev \n    mesame tamashis 2 kushs, uechveli meitans \n "
